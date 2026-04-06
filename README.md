@@ -51,7 +51,7 @@ All cleaning was done in Excel before analysis began:
 
 - Four KPI cards showing total revenue, total profit, total orders, and top category
 - Revenue by Category - horizontal bar chart
-- Revenue by Top 10 Countries - horizontal bar chart
+- Revenue by Top 10 Countries - column chart
 - Profit by Category - column chart
 - Revenue by Device Type - doughnut chart
 - Year and category slicers connected to all charts for dynamic filtering
