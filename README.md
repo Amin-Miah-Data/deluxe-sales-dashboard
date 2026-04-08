@@ -9,6 +9,7 @@ This project analyses two years of sales data for Deluxe, a UK-based online reta
 <img width="1720" height="734" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/936a244b-078b-41e3-83dc-73cdf981820f" />
 
 
+
 🎯 Objectives
 
 - Identify the top performing product categories by revenue and profit
