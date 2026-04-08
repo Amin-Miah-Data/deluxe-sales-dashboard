@@ -4,6 +4,10 @@ Deluxe Revenue and Profit Dashboard
 
 This project analyses two years of sales data for Deluxe, a UK-based online retailer, covering January 2019 to December 2020. Starting from a raw dataset, I cleaned and structured the data, built PivotTables to summarise key metrics, and designed an interactive Excel dashboard to answer one business question: which product categories and countries drive the most revenue and profit?
 
+📸 Dashboard Preview
+
+<img width="1720" height="734" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/936a244b-078b-41e3-83dc-73cdf981820f" />
+
 🎯 Objectives
 
 - Identify the top performing product categories by revenue and profit
